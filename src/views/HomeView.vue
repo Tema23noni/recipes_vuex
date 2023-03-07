@@ -44,7 +44,7 @@
       <button type="button" @click="addNewStep">Добавить шаг</button>
      </div>
 
-     <button type="submit">Add Recipe</button>
+     <button type="submit">Добавить рецепт</button>
      <button type="button" @click="togglePopup">Закрыть</button>
     </form>
    </div>
